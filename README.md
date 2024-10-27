@@ -1,4 +1,4 @@
-#Password Generator
+Password Generator
 
 Welcome to my first project: the Password Generator! This web application allows users to generate secure passwords using HTML, CSS, and JavaScript. It's a simple tool that demonstrates my understanding of web development fundamentals.
 
