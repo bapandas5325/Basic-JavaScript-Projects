@@ -10,7 +10,7 @@ Welcome to my first project: the Password Generator! This web application allows
 ## Technologies Used
 
 - **HTML**: Structure of the web application
-- **CSS**: Styling the application (optional)
+- **CSS**: Styling the application 
 - **JavaScript**: Functionality for generating and copying passwords
 
 ## How to Use the Project
@@ -32,3 +32,10 @@ To run this project locally on your machine:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/basic-javascript-project.git
+
+
+
+**If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any feedback or suggestions for improvement are welcome.
+
+
+
