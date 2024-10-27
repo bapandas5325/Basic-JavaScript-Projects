@@ -1,4 +1,4 @@
-# Password Generator
+#Password Generator
 
 Welcome to my first project: the Password Generator! This web application allows users to generate secure passwords using HTML, CSS, and JavaScript. It's a simple tool that demonstrates my understanding of web development fundamentals.
 
@@ -35,7 +35,7 @@ To run this project locally on your machine:
 
 
 
-**If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any feedback or suggestions for improvement are welcome.
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any feedback or suggestions for improvement are welcome.
 
 
 
