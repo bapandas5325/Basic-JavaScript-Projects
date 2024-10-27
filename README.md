@@ -13,4 +13,4 @@ A simple web application that generates secure passwords.
 - **CSS**: Styling the application
 - **JavaScript**: Functionality for generating and copying passwords
 
-###### Project 2:
+### Project 2:
