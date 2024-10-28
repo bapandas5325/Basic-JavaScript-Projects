@@ -1,7 +1,7 @@
 
-# Basic JavaScript Projects
+# JavaScript Projects
 
-Welcome to my repository of Basic JavaScript Projects! Here, you'll find the projects I've completed as I continue to learn JavaScript. Each project showcases different aspects of web development, using various technologies.
+Welcome to my repository of JavaScript Projects! Here, you'll find the projects I've completed as I continue to learn JavaScript. Each project showcases different aspects of web development, using various technologies.
 
 ## Projects
 
