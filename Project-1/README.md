@@ -6,6 +6,12 @@ Welcome to my first project: the Password Generator! This web application allows
 
 - Generates a random password consisting of uppercase letters, lowercase letters, numbers, and symbols.
 - Option to copy the generated password to your clipboard with a single click.
+  
+## Screenshot of the project
+
+![1](https://github.com/user-attachments/assets/ee16ca31-9a82-4489-ab69-1bc41d9ee6dc)
+![2](https://github.com/user-attachments/assets/d1901bde-dea1-4090-b908-79a1792010ac)
+![3](https://github.com/user-attachments/assets/5ef0e358-6a2a-4d0a-ab57-327c6dce9314)
 
 ## Technologies Used
 
